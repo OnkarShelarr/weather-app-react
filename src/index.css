@@ -1,0 +1,24 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+    font-family: Poppins;
+    src: url(/Poppins-Regular.ttf);
+}
+.poppins{
+    font-family: Poppins,serif;
+}
+
+
+.theme-dark{
+color: white !important;
+background-color: #212121;
+background-image: linear-gradient(90deg,#434343 46%, #1e1e1e 100%);
+}
+.theme-light{
+color: black !important;
+background-color: #f0f1f2;
+background-image: linear-gradient(90deg, #f0f1f2 46%, #5d6469 100%);
+
+}

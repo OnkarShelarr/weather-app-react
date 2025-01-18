@@ -1,0 +1,12 @@
+.box-shadow{
+    border: 2px #222222 solid;
+    box-shadow: 8px 9px 3px 5px  #222222;
+}
+.bg-dark{
+    background-color: #444444;
+    color: white;
+    }
+    .bg-light{
+        background-color: #d9d9d9;
+        color: black;
+    }
