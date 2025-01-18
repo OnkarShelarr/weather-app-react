@@ -45,7 +45,7 @@ Follow these steps to run the Weather App locally:
    ```
 5. Start the development server:
    ```bash
-   npm start
+   npm run dev
    ```
 6. Open your browser and go to:
    ```
@@ -82,11 +82,6 @@ Follow these steps to run the Weather App locally:
 Contributions are always welcome!  
 Feel free to fork the repository and create a pull request with your changes.
 
----
-
-## License 📜
-
-This project is licensed under the [MIT License](LICENSE).
 
 ---
 
@@ -103,6 +98,6 @@ This project is licensed under the [MIT License](LICENSE).
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Javeriya Saleem](https://github.com/JaveriyaSaleem)
-- **LinkedIn**: [Javeriya Saleem](https://www.linkedin.com/in/javeriyasaleem/)
+- **GitHub**: [Javeriya Saleem](https://github.com/OnkarShelarr)
+- **LinkedIn**: [Javeriya Saleem](https://www.linkedin.com/in/shelaronkar/)
 
