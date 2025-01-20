@@ -98,6 +98,6 @@ Feel free to fork the repository and create a pull request with your changes.
 
 If you have any questions or suggestions, feel free to reach out:
 
-- **GitHub**: [Javeriya Saleem](https://github.com/OnkarShelarr)
-- **LinkedIn**: [Javeriya Saleem](https://www.linkedin.com/in/shelaronkar/)
+- **GitHub**: [Onkar Shelar](https://github.com/OnkarShelarr)
+- **LinkedIn**: [Onkar Shelar](https://www.linkedin.com/in/shelaronkar/)
 
